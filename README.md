@@ -1,2 +1,2 @@
-# Abhey-Kumar-Singla
+# ML-algorithms
 Data preprocessing on housing data
